@@ -4,6 +4,7 @@ var btoa = require('btoa');
 var keys = {
     client: 'Xy3WOLIgPe4AIiBhHt4EBPRKx', 
     secret: 'TjU1lEByqhGS5vnGK02M9trY98PycbqI09fVGmCexPj2VumwJQ'
+    
 }
 
 var combined = keys.client + ":" + keys.secret; 
